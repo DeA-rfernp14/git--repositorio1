@@ -1,0 +1,5 @@
+one 1
+dois 2
+trois 3
+cuatrois 4
+cincois 5
